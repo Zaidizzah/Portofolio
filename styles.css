@@ -207,10 +207,6 @@ footer {
     rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 
-#about-image:hover {
-  transform: scale(1.2);
-}
-
 .social-icon {
   transition: all 0.5ms ease;
 
